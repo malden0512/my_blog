@@ -1,2 +1,2 @@
-# myblog
-django tutorial
+My_blog
+React portfolio web site
